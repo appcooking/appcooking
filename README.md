@@ -2,4 +2,4 @@
 
 ### AppCook
 
-AppCook provides services to build 
+AppCook provides services to design, develop, and deploy.
